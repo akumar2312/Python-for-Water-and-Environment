@@ -31,8 +31,6 @@ meshPath = "./meshes_gmsh/" + meshName + ".msh"
 velocityDataPath = "./result/" \
                    "Stream_NS-2D/velocity_timeseries.h5"
 resultPath = "./result/" + simulationName + "/"
-resultPath = "/home/anil/Desktop/py/result/" + \
-             simulationName + "/"
 
 """
 We load the same mesh, generated externally
