@@ -26,9 +26,7 @@ would be stored.
 simulationName = "Stream_NS-2D"
 meshName = "aquifer2D"
 meshPath = "./meshes_gmsh/" + meshName + ".msh"
-# resultPath = "./result/" + simulationName + "/"
-resultPath = "/home/anil/Desktop/py/result/" + \
-             simulationName + "/"
+resultPath = "./result/" + simulationName + "/"
 
 if os.path.isfile(meshPath):
     """
