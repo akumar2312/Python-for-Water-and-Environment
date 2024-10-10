@@ -27,7 +27,7 @@ File handling block
 """
 simulationName = "Diff_Adv-2D"
 meshName = "aquifer2D"
-meshPath = "./meshes_gmsh/" + meshName + ".msh"
+meshPath = "../meshes_gmsh/" + meshName + ".msh"
 velocityDataPath = "./result/" \
                    "Stream_NS-2D/velocity_timeseries.h5"
 resultPath = "./result/" + simulationName + "/"
