@@ -4,4 +4,4 @@ This repository contains Python codes accompanying the book _Python for Water an
 
 ![Book Cover](book-cover.png)
 
-For more resources, visit please the [HydroSense (IIT Delhi)](http://hydrosense.iitd.ac.in) Lab.
+For more resources, please visit the [HydroSense (IIT Delhi)](http://hydrosense.iitd.ac.in) Lab.
