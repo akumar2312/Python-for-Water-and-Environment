@@ -21,7 +21,7 @@ File handling
 """
 simulationName = "Diff_React-2Dp"
 meshName = "aquifer2D"
-meshPath = "./meshes_gmsh/" + meshName + ".msh"
+meshPath = "../meshes_gmsh/" + meshName + ".msh"
 resultPath = "./result/" + simulationName + "/"
 
 
