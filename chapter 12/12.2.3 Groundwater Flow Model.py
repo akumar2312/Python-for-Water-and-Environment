@@ -25,7 +25,7 @@ File I/O
 """
 simulationName = "Groundwater_flow-2D"
 meshName = "groundwater_2D"
-meshPath = "./meshes_gmsh/" + meshName + ".msh"
+meshPath = "../meshes_gmsh/" + meshName + ".msh"
 resultPath = "./result/"
 
 
