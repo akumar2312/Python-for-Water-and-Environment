@@ -19,7 +19,7 @@ File IO
 """
 simulationName = "Seepage_flow-2D"
 meshName = "seepage_2D"
-meshPath = "./meshes_gmsh/" + meshName + ".msh"
+meshPath = "../meshes_gmsh/" + meshName + ".msh"
 resultPath = "./result/" + simulationName + ".png"
 
 
